@@ -2,7 +2,7 @@
 title: Reverse_Intro
 authors: [Gosha, Avigdor]
 date: 2023-11-18 00:34:00 +0800
-categories: [fortest, bio]
+categories: [CyberSec, Reverse]
 tags: [demo]
 ---
 
