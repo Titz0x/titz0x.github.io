@@ -8,4 +8,3 @@ tags: [nerd]
 
 
 
-how we hack server with metasploit ....
