@@ -7,7 +7,6 @@ tags: [myself]
 ---
 
 
-[[0. Конспект|ВЕРНУТЬСЯ К КОНСПЕКТУ]] 
 ___
 - Прон:
     - https://www.yourbrainonporn.com/tools-for-change-recovery-from-porn-addiction/
@@ -32,4 +31,3 @@ ___
     - [Хорошая статья о гликемическом индексе и гликемической нагрузке](https://lifehacker.ru/glycemic-index/)
     - [Полный список ГИ продуктов](https://fitseven.ru/pohudenie/pravilnoe-pitanie/glycemicheskiy-index)
 ---
-[[0. Конспект|ВЕРНУТЬСЯ К КОНСПЕКТУ]]
