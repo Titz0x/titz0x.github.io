@@ -6,42 +6,42 @@ categories: [Self-Development, Course by Gleb Karpov]
 tags: [myself]
 ---
 
-# [1. What is self-discipline and why do you need it](_posts/2023-11-27-first-module-course-gleb-karpov.md)
+# [1. What is self-discipline and why do you need it](/_posts/2023-11-27-first-module-course-gleb-karpov.md)
 - Самодисциплина лучше определяет успех чем IQ. 
 - Самодисциплинирование люди больше радуются своей работой, они более здоровы, живут больше других, имеют более долгие браки, у них лучше социальные взаимоотношения и самооценка.
 - Также у дисциплинированных людей лучше память в старости. Они лучше приспосабливаются к окружающим изменениям. У них меньше психических и умственных заболеваний.
 - **Дисциплина это наиболее мощный бустер свободы воли который только можно найти.**
-# [2. What self-discipline depends on](_posts/2023-11-27-second-module-course-gleb-karpov.md)
+# [2. What self-discipline depends on](/_posts/2023-11-27-second-module-course-gleb-karpov.md)
 - Понимание зачем ты что-то делаешь повышает дисциплину, продуктивность и психическое здоровье.
-# [3. Dofamine](_posts/2023-11-27-third-module-course-gleb-karpov.md)
+# [3. Dofamine](/_posts/2023-11-27-third-module-course-gleb-karpov.md)
 - Настроить дофаминовую систему нужно для того чтобы постоянно была мотивация и радость от того что ты делаешь. Также чтобы улучшить субъективное восприятие времени и работу мозга.
-# [4. Rebooting the dopamine system](_posts/2023-11-27-fourth-module-course-gleb-karpov.md)
+# [4. Rebooting the dopamine system](/_posts/2023-11-27-fourth-module-course-gleb-karpov.md)
 - Доф. перезагрузка нужна для того чтобы начать получать удовольствие от действий и обновить дофаминовые рецепторы.
-# [5. The eternal health of the dopamine system](_posts/2023-11-27-fifth-module-gleb-karpov.md)
+# [5. The eternal health of the dopamine system](/_posts/2023-11-27-fifth-module-gleb-karpov.md)
 - Правильное питание.
 - Наиболее полезные привычки для дофамина.
 # [6. Training ourselves with dopamine](_posts/2023-11-27-sixth-module-gleb-karpov.md)
-# [7. Serotonin](_posts/2023-11-27-seventh-module-gleb-karpov.md)
+# [7. Serotonin](/posts/2023-11-27-seventh-module-gleb-karpov.md)
 - Дофамин нужен что бы чувствовать мотивацию на ежедневные задачи, а серотонин что бы не сдаваться на животные инстинкты.
-# [8. Neuroplasticity for self-discipline](_posts/2023-11-27-eighth-module-gleb-karpov.md)
+# [8. Neuroplasticity for self-discipline](/_posts/2023-11-27-eighth-module-gleb-karpov.md)
 - Вред многозадачности.
 - Как формировать привычки.
 - Осознанность (делать обычное дело по необычному).
 - Квантовое мышление.
-# [9. How to work with your head](_posts/2023-11-27-ninth-module-gleb-karpov.md)
+# [9. How to work with your head](/_posts/2023-11-27-ninth-module-gleb-karpov.md)
 - Четыре столпа изменений
 - Утрений и вечерний ритуал
-# [10. Principles of a disciplined life](_posts/2023-11-27-tenth-module-course-by-gleb-karpov.md)
+# [10. Principles of a disciplined life](/_posts/2023-11-27-tenth-module-course-by-gleb-karpov.md)
 - Про важность концентрации на деле. 
 - Про окружение и про то как важно помнить о смерти.
-# [11. Additional tools for willpower](_posts/2023-11-27-eleventh-module-gleb-karpov.md)
+# [11. Additional tools for willpower](/_posts/2023-11-27-eleventh-module-gleb-karpov.md)
 - Ранний подьем. 
 - Изменчивость сердечного ритма (Дополнительно для улучшения: классическая музыка, зеленый чай; избегать стресса, перетренированости и прокрастинации). 
 - Ужасы. 
 - Медитация. 
 - Про уровень сахара в крови. 
 - Последний вариант для дисциплины (на крайний случай)
-# [12. Summarize and draw up instructions](_posts/2023-11-27-twelfth-module-gleb-karpov.md)
+# [12. Summarize and draw up instructions](/_posts/2023-11-27-twelfth-module-gleb-karpov.md)
 1. Восстанавливаем дофаминовые рецепторы через дофаминовую перезагрузку. Избавляемся от вредного поведения:
     1. Убираем из своей жизни: 
         1. Рафинированный сахар, глутамат натрия, аспартам. Это добавляют практически во все полуфабрикаты.
@@ -110,4 +110,4 @@ tags: [myself]
         2.  Какие выводы из этого можно сделать? (и как не допустить ошибки в свою жизнь в следующий раз). В чем я могу стать лучше? Какие изменения в своем поведении я должен сделать? Как мне измениться, как оптимизировать свои действия? При этом не нужно обвинять себя, моя задача обнаружить системный сбой в системе, принять его и исправить.
         3.  Медитация намерения (Где, когда, как и что вы будете делать если эта ситуация снова возникнет?)
 6. Чистота во всем - каждый аспект жизни должен быть как на ладони, оно должно быть абсолютно тебе понятно (Зачем? Где? Когда?). Если что-то непонятно - убери лишнее, упрости и попробуй понять еще раз.
-# [13. Useful Links](_posts/2023-11-27-thirteenth-module-gleb-karpov.md)
+# [13. Useful Links](/_posts/2023-11-27-thirteenth-module-gleb-karpov.md)
