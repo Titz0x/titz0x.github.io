@@ -8,6 +8,16 @@ tags: [challenge]
 
 
 
-# 100 days information security challenge
+# 100 days of information security challenge
 
-- [ ] 123 123
+Today is my first day of the challenge.
+I started by structuring my plan to understand when and what I should do. Deadlines are important and cool!
+
+![](/plan.jpg)
+
+As you may have realized by now, I started this week by learning Computer Science. Specifically:
+- 6 lectures of CS50 by Harward
+- The course "name"
+- Course "name"
+
+I'm also going to add English to my plan
