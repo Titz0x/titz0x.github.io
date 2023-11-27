@@ -17,7 +17,6 @@ I started by structuring my plan to understand when and what I should do. Deadli
 
 As you may have realized by now, I started this week by learning Computer Science. Specifically:
 - 6 lectures of CS50 by Harward
-- The course "name"
-- Course "name"
+- Course "Smolny Computer Science" (15%)
 
 I'm also going to add English to my plan
