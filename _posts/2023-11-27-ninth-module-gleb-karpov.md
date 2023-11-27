@@ -1,7 +1,7 @@
 ---
 title: '9. How to work with your head'
 authors: [Avigdor]
-date: 2023-11-27 00:00:00 +0000
+date: 2023-11-27 09:00:00 +0000
 categories: [Self-Development, Course by Gleb Karpov]
 tags: [myself]
 ---

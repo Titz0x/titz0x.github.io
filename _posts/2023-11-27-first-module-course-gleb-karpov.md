@@ -1,7 +1,7 @@
 ---
 title: '1. What is self-discipline and why do you need it'
 authors: [Avigdor]
-date: 2023-11-27 00:00:00 +0000
+date: 2023-11-27 01:00:00 +0000
 categories: [Self-Development, Course by Gleb Karpov]
 tags: [myself]
 ---

@@ -1,7 +1,7 @@
 ---
 title: '10. Principles of a disciplined life'
 authors: [Avigdor]
-date: 2023-11-27 00:00:00 +0000
+date: 2023-11-27 10:00:00 +0000
 categories: [Self-Development, Course by Gleb Karpov]
 tags: [myself]
 ---

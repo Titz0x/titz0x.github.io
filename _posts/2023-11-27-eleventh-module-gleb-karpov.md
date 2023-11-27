@@ -1,7 +1,7 @@
 ---
 title: '11. Additional tools for willpower'
 authors: [Avigdor]
-date: 2023-11-27 00:00:00 +0000
+date: 2023-11-27 11:00:00 +0000
 categories: [Self-Development, Course by Gleb Karpov]
 tags: [myself]
 ---

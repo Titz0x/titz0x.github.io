@@ -1,7 +1,7 @@
 ---
 title: '6. Training ourselves with dopamine'
 authors: [Avigdor]
-date: 2023-11-27 00:00:00 +0000
+date: 2023-11-27 06:00:00 +0000
 categories: [Self-Development, Course by Gleb Karpov]
 tags: [myself]
 ---
